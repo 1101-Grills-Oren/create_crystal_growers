@@ -1,4 +1,4 @@
-package dev.ember.ccg;
+package dev.ember.create_crystal_growers;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
