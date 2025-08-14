@@ -1,4 +1,4 @@
-package com.ember.ccg;
+package dev.ember.ccg;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
