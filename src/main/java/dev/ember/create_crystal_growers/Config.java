@@ -1,4 +1,4 @@
-package dev.ember.ccg;
+package dev.ember.create_crystal_growers;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
