@@ -1,4 +1,4 @@
-package com.ember.ccg;
+package dev.ember.ccg;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
